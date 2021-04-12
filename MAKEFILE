@@ -1,0 +1,2 @@
+rm shell
+gcc -o shell myShell.c -lpthread
